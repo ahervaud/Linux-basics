@@ -1,0 +1,1 @@
+- [ ]  **Sécurité** (SELinux/AppArmor, clés SSH, fail2ban)
